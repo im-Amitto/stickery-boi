@@ -54,7 +54,7 @@ module.exports = class MemeCommand extends commando.Command {
                 var formData = {
                     // Pass a simple key-value pair
                     template_id: meme_type_id,
-                    username: 'silvod9',
+                    username: 'AmitMeena',
                     password: imgflip_pass,
                     text0: top_text,
                     text1: bottom_text
