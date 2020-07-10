@@ -66,7 +66,7 @@ module.exports = class HelpCommand extends commando.Command {
             var fmt_cmds = "`reverse` `pyramid` `random-case` `replace-b` `letter-em` `1337` `emojify` `adv1337` `binary`"
             var social_cmds = "`card` `avatar` `wave` `poke`"
             var meta_cmds = "`info` `creator` `idea` `server` `invite`"
-            var sticker_cmds = "`personal`"
+            var sticker_cmds = "`imoji`"
 
             msg.channel.send({
                 embed: {
